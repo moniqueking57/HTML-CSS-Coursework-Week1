@@ -1,14 +1,4 @@
 <html>
-    <head>
-        <title>History of Great Painters</title>
-    </head>
-
-    <body> <ul>
-        <li> Leonardo Da Vinci (1452-1519) </li>
-        <li> Michelangelo (1475-1564) </li>
-        <li> Claude Monet (1840-1926) </li>
-    </body>
-
     <nav id="nav-bar">
       <ul>
         <li><a class="nav-link" href="#Leonardo Da Vinci">Leonardo Da Vinci</a></li>
@@ -16,6 +6,17 @@
         <li><a class="nav-link" href="#Claude Monet">Claude Monet</a></li>
       </ul>
     </nav>
+  
+    <head>
+        <h1>Some of History's Great Painters</h1>
+    </head>
+
+    <body> 
+        <p> Leonardo Da Vinci (1452-1519) 
+          Michelangelo (1475-1564) 
+        Claude Monet (1840-1926) </p>
+    </body>
+
 
     <article class = 'Leonardo Da Vinci'>
         <h1>Leonardo Da Vinci's Life</h1>
@@ -37,7 +38,7 @@
                 >National Geographic</a 
                 > website.
         </h3>
-        As requested, using the Loren Ipsum site, I have added in text from there. "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        <i>As requested, using the Loren Ipsum site, I have added in text from there. "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</i>
         </p>
     </article>
 
@@ -73,7 +74,7 @@
                 >National Geographic</a 
                 > website.
         </h3>
-        As requested, using the Loren Ipsum site, I have added in text from there. "Nam tempus neque sit amet pulvinar dictum. Maecenas iaculis venenatis urna sit amet tempor. Nunc et posuere purus. Quisque et efficitur velit. Vivamus leo lorem, ornare at mi nec, rhoncus mollis est. Fusce suscipit cursus enim, id varius tortor lobortis sit amet. Nam congue, dui id dapibus facilisis, augue tortor laoreet est, sit amet cursus lacus leo a mauris. Cras vitae quam porttitor, tempus massa fringilla, iaculis justo. Aenean consequat vulputate nulla sit amet luctus. Fusce lobortis ex nec sem rhoncus gravida. Sed imperdiet finibus tellus, a lacinia enim dapibus et. Nam pulvinar auctor luctus."
+        <i>As requested, using the Loren Ipsum site, I have added in text from there. "Nam tempus neque sit amet pulvinar dictum. Maecenas iaculis venenatis urna sit amet tempor. Nunc et posuere purus. Quisque et efficitur velit. Vivamus leo lorem, ornare at mi nec, rhoncus mollis est. Fusce suscipit cursus enim, id varius tortor lobortis sit amet. Nam congue, dui id dapibus facilisis, augue tortor laoreet est, sit amet cursus lacus leo a mauris. Cras vitae quam porttitor, tempus massa fringilla, iaculis justo. Aenean consequat vulputate nulla sit amet luctus. Fusce lobortis ex nec sem rhoncus gravida. Sed imperdiet finibus tellus, a lacinia enim dapibus et. Nam pulvinar auctor luctus."</i>
         </p>
     </article>
 
@@ -92,7 +93,7 @@
     
     <article class = 'Claude Monet'>
         <h1><Monet's Life</h1>
-        <p>Monet whilst most famous for a few collections was a prolific painter and really focused on transient light particularly in his Haystack collection. 
+        <p> Monet whilst most famous for a few collections was a prolific painter and really focused on transient light particularly in his Haystack collection. 
             <ul> <b> His paintings included: </b>
                 <li> The Water Lily Pond </li>
                 <li> The Flowered Garden</li>
@@ -108,7 +109,7 @@
                 >National Geographic</a 
                 > website.
         </h3>
-        As requested, using the Loren Ipsum site, I have added in text from there. "Nullam eu augue et ante dignissim rhoncus. Aenean congue velit eu mattis tincidunt. Proin sit amet nisl sapien. Nunc gravida nisl sed mattis varius. Etiam ut augue ante. Cras consectetur tincidunt ipsum sit amet sollicitudin. Proin convallis semper iaculis. Donec sit amet massa ex. Suspendisse consectetur vulputate arcu eget posuere."
+        <i>As requested, using the Loren Ipsum site, I have added in text from there. "Nullam eu augue et ante dignissim rhoncus. Aenean congue velit eu mattis tincidunt. Proin sit amet nisl sapien. Nunc gravida nisl sed mattis varius. Etiam ut augue ante. Cras consectetur tincidunt ipsum sit amet sollicitudin. Proin convallis semper iaculis. Donec sit amet massa ex. Suspendisse consectetur vulputate arcu eget posuere."</i>
         </p>
     </article>
 
