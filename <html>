@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <title>History of Great Painters</title>
+    </head>
+
+    <body> <ul>
+        <li> Leonardo Da Vinci (1452-1519) </li>
+        <li> Michelangelo (1475-1564) </li>
+        <li> Rembrandt (1606-1669) </li>
+        <li> Claude Monet (1840-1926) </li>
+        <li> Vincent Van Gogh (1853-1890) </li>
+        <li> Pablo Picasso (1881-1973) </li>
+    </body>
+
+    <article class = 'Leonardo Da Vinci'>
+        <h1>Leonardo Da Vinci's Life</h1>
+        <figure id="img-div">
+            <img
+                id="image"
+                    src="https://www.flavoursholidays.co.uk/wp-content/uploads/2016/05/Possible_Self-Portrait_of_Leonardo_da_Vinci-690x1043.jpg"
+                    alt="A self portrait of Leonardo Da Vinci"
+             />
+                <figcaption id="img-caption">
+                    <i> A self portrait of Leonardo Da Vinci. </i>
+                </figcaption>
+        </figure>
+        <p>From iconic paintings— Mona Lisa — to designs for flying machines and ground -breaking studies on optics and perspective, Leonardo fused science and art to create works that have become part of humanity’s story.
+            <ul> <b> His paintings included: </b>
+                <li> Mona Lisa </li>
+                <li> The Last Supper </li>
+                <li> Salvator Mundi </li>
+                <li> Vitruvian Man </li>
+                <li> Saint John the Baptiste </li>
+                <li> ...and many more with a number of his works lost to history</li>
+            </ul>
+        <h3> There is more information about Leonardo Da Vinci and why he is a genius on the  
+            <a
+                id="tribute-link"
+                href="https://www.nationalgeographic.com/news/2017/11/leonardo-da-vinci-genius-walter-isaacson/"
+                target="_blank"
+                >National Geographic</a 
+                > website.
+        </h3>
+        </p>
+    </article>
+
+     <article class = 'Michelangelo'>
+        <h1>Michelangelo's Life</h1>
+        <figure id="img-div">
+            <img
+                id="image"
+                    src="https://img.theculturetrip.com/1440x/wp-content/uploads/2016/01/The-Last-Judgment.jpg"
+                    alt="The Last Judgment, Sistine Chapel, Vatican City, 1536-1541 "
+             />
+                <figcaption id="img-caption">
+                    <i> Michelangelo's painting of 'The Last Judgment' in the Sistine Chapel of the Vatican City. </i>
+                </figcaption>
+        </figure>
+        <p>Michelangelo's most famous work was the Last Judgement which famously took him 4 years to complete, he also did other famous pieces.
+            <ul> <b> His paintings included: </b>
+                <li> The Entombment </li>
+                <li> The Manchester Madonna</li>
+                <li> Leda and the Swan </li>
+                <li> The Dream of Human Life </li>
+                <li> ...and many more.</li>
+            </ul>
+        <h3> There is more information about Michelangelo and why he was deemed the Hero of the High Renaissance on 
+            <a
+                id="tribute-link"
+                href="https://www.nationalgallery.org.uk/artists/michelangelo"
+                target="_blank"
+                >National Geographic</a 
+                > website.
+        </h3>
+        </p>
+    </article>
+
+</html>
