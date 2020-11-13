@@ -6,8 +6,8 @@ html {
   font-size: 15px;
 }
 
-li:first-child {
-  background: #a3ffff;
+h1:first-child {
+  background: #c7c7c7;
 }
 
 body {
@@ -22,7 +22,7 @@ body {
 h1 {
   font-size: 2rem;
   margin-bottom: 0;
-  text-align:center;
+  text-align:left;
 }
 
 img {
@@ -32,7 +32,7 @@ img {
   margin: 0 auto;
 }
 #img-div {
-  background: pink;
+  background: black;
   padding: 10px;
   margin: 0;
 }

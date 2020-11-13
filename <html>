@@ -1,5 +1,5 @@
 <html>
-    <nav id="nav-bar">
+  <nav id="nav-bar">
       <ul>
         <li><a class="nav-link" href="#Leonardo Da Vinci">Leonardo Da Vinci</a></li>
         <li><a class="nav-link" href="#Michelangelo">Michelangelo</a></li>
@@ -92,7 +92,7 @@
     </aside>
     
     <article class = 'Claude Monet'>
-        <h1><Monet's Life</h1>
+        <h1>Monet's Life </h1>
         <p> Monet whilst most famous for a few collections was a prolific painter and really focused on transient light particularly in his Haystack collection. 
             <ul> <b> His paintings included: </b>
                 <li> The Water Lily Pond </li>
