@@ -9,19 +9,17 @@
         <li> Claude Monet (1840-1926) </li>
     </body>
 
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#Leonardo Da Vinci">Leonardo Da Vinci</a></li>
+        <li><a class="nav-link" href="#Michelangelo">Michelangelo</a></li>
+        <li><a class="nav-link" href="#Claude Monet">Claude Monet</a></li>
+      </ul>
+    </nav>
 
     <article class = 'Leonardo Da Vinci'>
         <h1>Leonardo Da Vinci's Life</h1>
-        <figure id="img-div">
-            <img
-                id="image"
-                    src="https://www.flavoursholidays.co.uk/wp-content/uploads/2016/05/Possible_Self-Portrait_of_Leonardo_da_Vinci-690x1043.jpg"
-                    alt="A self portrait of Leonardo Da Vinci"
-             />
-                <figcaption id="img-caption">
-                    <i> A self portrait of Leonardo Da Vinci. </i>
-                </figcaption>
-        </figure>
+      
         <p>From iconic paintings— Mona Lisa — to designs for flying machines and ground -breaking studies on optics and perspective, Leonardo fused science and art to create works that have become part of humanity’s story.
             <ul> <b> His paintings included: </b>
                 <li> Mona Lisa </li>
@@ -39,22 +37,26 @@
                 >National Geographic</a 
                 > website.
         </h3>
+        As requested, using the Loren Ipsum site, I have added in text from there. "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         </p>
     </article>
+
+    <aside>
+      <figure id="img-div">
+            <img
+                id="image"
+                    src="https://www.flavoursholidays.co.uk/wp-content/uploads/2016/05/Possible_Self-Portrait_of_Leonardo_da_Vinci-690x1043.jpg"
+                    alt="A self portrait of Leonardo Da Vinci"
+             />
+                <figcaption id="img-caption">
+                    <i> A self portrait of Leonardo Da Vinci. </i>
+                </figcaption>
+        </figure>
+    </aside>
 
 
     <article class = 'Michelangelo'>
         <h1>Michelangelo's Life</h1>
-        <figure id="img-div">
-            <img
-                id="image"
-                    src="https://img.theculturetrip.com/1440x/wp-content/uploads/2016/01/The-Last-Judgment.jpg"
-                    alt="The Last Judgment, Sistine Chapel, Vatican City, 1536-1541 "
-             />
-                <figcaption id="img-caption">
-                    <i> Michelangelo's painting of 'The Last Judgment' in the Sistine Chapel of the Vatican City. </i>
-                </figcaption>
-        </figure>
         <p>Michelangelo's most famous work was the Last Judgement which famously took him 4 years to complete, he also did other famous pieces.
             <ul> <b> His paintings included: </b>
                 <li> The Entombment </li>
@@ -71,22 +73,25 @@
                 >National Geographic</a 
                 > website.
         </h3>
+        As requested, using the Loren Ipsum site, I have added in text from there. "Nam tempus neque sit amet pulvinar dictum. Maecenas iaculis venenatis urna sit amet tempor. Nunc et posuere purus. Quisque et efficitur velit. Vivamus leo lorem, ornare at mi nec, rhoncus mollis est. Fusce suscipit cursus enim, id varius tortor lobortis sit amet. Nam congue, dui id dapibus facilisis, augue tortor laoreet est, sit amet cursus lacus leo a mauris. Cras vitae quam porttitor, tempus massa fringilla, iaculis justo. Aenean consequat vulputate nulla sit amet luctus. Fusce lobortis ex nec sem rhoncus gravida. Sed imperdiet finibus tellus, a lacinia enim dapibus et. Nam pulvinar auctor luctus."
         </p>
     </article>
 
-    
-    <article class = 'Claude Monet'>
-        <h1><Monet's Life</h1>
+    <aside>
         <figure id="img-div">
             <img
                 id="image"
-                    src="https://static01.nyt.com/images/2019/05/15/arts/15auction-print/merlin_154513575_9e3a1bf0-83c5-4d8e-be8e-c95aa76513fe-jumbo.jpg?quality=90&auto=webp"
-                    alt="Haystacks, 1890.  "
+                    src="https://img.theculturetrip.com/1440x/wp-content/uploads/2016/01/The-Last-Judgment.jpg"
+                    alt="The Last Judgment, Sistine Chapel, Vatican City, 1536-1541 "
              />
                 <figcaption id="img-caption">
-                    <i> Haystacks, 1890, a part of a collection of 25 Haystack paintings at different times of the day and year. This particular painting sold to a private collector in 2019 for $110.7 million.   </i>
+                    <i> Michelangelo's painting of 'The Last Judgment' in the Sistine Chapel of the Vatican City. </i>
                 </figcaption>
         </figure>
+    </aside>
+    
+    <article class = 'Claude Monet'>
+        <h1><Monet's Life</h1>
         <p>Monet whilst most famous for a few collections was a prolific painter and really focused on transient light particularly in his Haystack collection. 
             <ul> <b> His paintings included: </b>
                 <li> The Water Lily Pond </li>
@@ -103,9 +108,22 @@
                 >National Geographic</a 
                 > website.
         </h3>
+        As requested, using the Loren Ipsum site, I have added in text from there. "Nullam eu augue et ante dignissim rhoncus. Aenean congue velit eu mattis tincidunt. Proin sit amet nisl sapien. Nunc gravida nisl sed mattis varius. Etiam ut augue ante. Cras consectetur tincidunt ipsum sit amet sollicitudin. Proin convallis semper iaculis. Donec sit amet massa ex. Suspendisse consectetur vulputate arcu eget posuere."
         </p>
     </article>
 
+    <aside>
+        <figure id="img-div">
+            <img
+                id="image"
+                    src="https://static01.nyt.com/images/2019/05/15/arts/15auction-print/merlin_154513575_9e3a1bf0-83c5-4d8e-be8e-c95aa76513fe-jumbo.jpg?quality=90&auto=webp"
+                    alt="Haystacks, 1890.  "
+             />
+                <figcaption id="img-caption">
+                    <i> Haystacks, 1890, a part of a collection of 25 Haystack paintings at different times of the day and year. This particular painting sold to a private collector in 2019 for $110.7 million.   </i>
+                </figcaption>
+        </figure>
+    </aside>
 
     <footer> This is information on three famous painters from previous centuries.
     </footer>
