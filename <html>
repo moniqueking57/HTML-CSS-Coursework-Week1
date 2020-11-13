@@ -15,7 +15,7 @@
         <p> Leonardo Da Vinci (1452-1519) 
           Michelangelo (1475-1564) 
         Claude Monet (1840-1926) </p>
-    </body>
+    
 
 
     <article class = 'Leonardo Da Vinci'>
@@ -128,4 +128,6 @@
 
     <footer> This is information on three famous painters from previous centuries.
     </footer>
+
+    </body>
 </html>
