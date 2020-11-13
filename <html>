@@ -6,11 +6,9 @@
     <body> <ul>
         <li> Leonardo Da Vinci (1452-1519) </li>
         <li> Michelangelo (1475-1564) </li>
-        <li> Rembrandt (1606-1669) </li>
         <li> Claude Monet (1840-1926) </li>
-        <li> Vincent Van Gogh (1853-1890) </li>
-        <li> Pablo Picasso (1881-1973) </li>
     </body>
+
 
     <article class = 'Leonardo Da Vinci'>
         <h1>Leonardo Da Vinci's Life</h1>
@@ -44,7 +42,8 @@
         </p>
     </article>
 
-     <article class = 'Michelangelo'>
+
+    <article class = 'Michelangelo'>
         <h1>Michelangelo's Life</h1>
         <figure id="img-div">
             <img
@@ -75,4 +74,39 @@
         </p>
     </article>
 
+    
+    <article class = 'Claude Monet'>
+        <h1><Monet's Life</h1>
+        <figure id="img-div">
+            <img
+                id="image"
+                    src="https://static01.nyt.com/images/2019/05/15/arts/15auction-print/merlin_154513575_9e3a1bf0-83c5-4d8e-be8e-c95aa76513fe-jumbo.jpg?quality=90&auto=webp"
+                    alt="Haystacks, 1890.  "
+             />
+                <figcaption id="img-caption">
+                    <i> Haystacks, 1890, a part of a collection of 25 Haystack paintings at different times of the day and year. This particular painting sold to a private collector in 2019 for $110.7 million.   </i>
+                </figcaption>
+        </figure>
+        <p>Monet whilst most famous for a few collections was a prolific painter and really focused on transient light particularly in his Haystack collection. 
+            <ul> <b> His paintings included: </b>
+                <li> The Water Lily Pond </li>
+                <li> The Flowered Garden</li>
+                <li> Bouquet of Sunflowers </li>
+                <li> Red Water Lilies </li>
+                <li> ...and many more.</li>
+            </ul>
+        <h3> There is more information about Michelangelo and why he was deemed the Hero of the High Renaissance on 
+            <a
+                id="tribute-link"
+                href="https://www.claudemonetgallery.org/biography.html"
+                target="_blank"
+                >National Geographic</a 
+                > website.
+        </h3>
+        </p>
+    </article>
+
+
+    <footer> This is information on three famous painters from previous centuries.
+    </footer>
 </html>
